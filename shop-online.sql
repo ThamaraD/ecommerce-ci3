@@ -1,5 +1,3 @@
-new file mode 100644
-@@ -0,0 +1,232 @@
 +-- phpMyAdmin SQL Dump
 +-- version 4.1.14
 +-- http://www.phpmyadmin.net
